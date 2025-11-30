@@ -1,0 +1,42 @@
+.head{
+    background-color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 54px;
+    padding: 5px 2px;
+    margin-bottom: 0;
+}
+
+li.home{
+    background-color: cadetblue;
+    color: black;
+    padding: 5px;
+    margin: 10px 1250px 10px 0px;
+    text-align: center;
+}
+
+.subhead{
+    background-color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 42px;
+    margin: 0;
+    text-align: center;
+}
+
+.sub-list{
+    background-color: orangered;
+    color: black;
+    padding: 3px;
+    margin: 10px 600px;
+    text-align: center;
+}
+
+img {
+    margin-top: 10px;
+}
+
+.home-return{
+    display: block;
+    font-size: 42px;
+    margin-top: 10;
+    background-color: bisque;
+}

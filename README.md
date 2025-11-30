@@ -1,1 +1,1 @@
-# odin-recipes
+Odin project demonstrating basic html by creating a basic webpage for recipes.
